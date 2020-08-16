@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Us on ALUNA Research Fellowship</title>
+    <link>/about/</link>
+    <description>Recent content in About Us on ALUNA Research Fellowship</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kamran Majid</title>
+      <link>/about/kamran_profile/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/kamran_profile/</guid>
+      <description>Kamran is a high school senior at Rock Ridge High School who has implemented unsupervised machine learning within computer vision programs for a micro-payload lunar rover. His interests lie in AI applications for rovers, and AI implementations for computer vision. Because of his experience with AI, he has co-founded the ALUNA Research Fellowship in order to guide and review the work of like-minded students.</description>
+    </item>
+    
+    <item>
+      <title>Rahul Kumar</title>
+      <link>/about/rahul_profile/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/rahul_profile/</guid>
+      <description>Rahul Kumar is a rising senior at the Academy of Science and Independence High School. He is passionate about robotics, computer vision, and biomedical application of Artificial Intelligence. He has completed various deep learning projects that are in the process of publication. He was inspired to co-found the ALUNA Research Fellowship to give other students an opportunity to conduct quality Artificial Intelligence research and potentially publish their work.</description>
+    </item>
+    
+    <item>
+      <title>Varun Pasupuleti</title>
+      <link>/about/varun_profile/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/varun_profile/</guid>
+      <description>Varun Pasupuleti is a rising senior at Rock Ridge High School and the Academy of Engineering and Technology. He has completed numerous research projects in the biomedical sciences. Interested in the fields of biology, chemistry, mathematics, and computer science, Varun has found AI with a biomedical application to be a fascinating crossroads of his passions. As such, he has joined the ALUNA Research Fellowship to share his interests with other students by guiding them through a research project of their own.</description>
+    </item>
+    
+  </channel>
+</rss>

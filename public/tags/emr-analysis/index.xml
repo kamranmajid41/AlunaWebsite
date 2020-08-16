@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EMR Analysis on ALUNA Research Fellowship</title>
+    <link>/tags/emr-analysis/</link>
+    <description>Recent content in EMR Analysis on ALUNA Research Fellowship</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/emr-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artificial Intelligence With Multi-Functional Machine Learning Platform Development for Better Healthcare and Precision Medicine</title>
+      <link>/post/paper-6/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/paper-6/</guid>
+      <description>&amp;ldquo;Precision medicine is one of the recent and powerful developments in medical care, which has the potential to improve the traditional symptom-driven practice of medicine, allowing earlier interventions using advanced diagnostics and tailoring better and economically personalized treatments. Identifying the best pathway to personalized and population medicine involves the ability to analyze comprehensive patient information together with broader aspects to monitor and distinguish between sick and relatively healthy people, which will lead to a better understanding of biological indicators that can signal shifts in health.</description>
+    </item>
+    
+    <item>
+      <title>Scalable and Accurate Deep Learning with Electronic Health Records</title>
+      <link>/post/paper-5/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/paper-5/</guid>
+      <description>&amp;ldquo;Predictive modeling with electronic health record (EHR) data is anticipated to drive personalized medicine and improve healthcare quality. Constructing predictive statistical models typically requires extraction of curated predictor variables from normalized EHR data, a labor-intensive process that discards the vast majority of information in each patient’s record. We propose a representation of patients’ entire raw EHR records based on the Fast Healthcare Interoperability Resources (FHIR) format. We demonstrate that deep learning methods using this representation are capable of accurately predicting multiple medical events from multiple centers without site-specific data harmonization.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fellowship on ALUNA Research Fellowship</title>
+    <link>/fellows/</link>
+    <description>Recent content in Fellowship on ALUNA Research Fellowship</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/fellows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Charles Anderson : C1</title>
+      <link>/fellows/charles/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fellows/charles/</guid>
+      <description>Charles Anderson is a rising junior at the Academy of Science. He is passionate about biotechnology, botany, artificial intelligence, and algorithmic trading . He has completed various projects in these fields, and is currently working on starting a non-profit incubation fund to abate the suffering from the crisis in Yemen.</description>
+    </item>
+    
+    <item>
+      <title>Dristi Shah : C2</title>
+      <link>/fellows/dristi/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fellows/dristi/</guid>
+      <description>Dristi Shah is a rising senior from Edison, New Jersey who is fascinated by the application of AI to improve the medical field. Interested in computer science, she hopes to continue coding and researching in college. In her free time, she enjoys painting and sketching.</description>
+    </item>
+    
+    <item>
+      <title>Ishita Vaish : C2</title>
+      <link>/fellows/ishita/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fellows/ishita/</guid>
+      <description>Ishita Vaish is a rising senior at Northview High School who has debated for over five years with a focus on gender inequality. This experience inspired her passion for addressing the structural determinants of sexism. She has joined the ALUNA Research Fellowship to explore how Artificial Intelligence has the potential to resolve these structural disparities.</description>
+    </item>
+    
+    <item>
+      <title>Rhea Goswami : C1</title>
+      <link>/fellows/rhea/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fellows/rhea/</guid>
+      <description>Rhea Goswami is a junior at Thomas Jefferson High School for Science and Technology. She has taken several courses in computer science and biology and is interested in learning more about algorithms and machine learning.</description>
+    </item>
+    
+    <item>
+      <title>Roshan Arokiaraj : C1</title>
+      <link>/fellows/roshan/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fellows/roshan/</guid>
+      <description>Roshan Arokiaraj is a rising junior at Independence High School. He is interested in the field of robotics, machine learning and artificial intelligence, web development, and various applications of virtual/augmented reality. He has completed numerous projects in these fields such as the development of a virtual telepresence robot, creating various websites using frameworks in JavaScript, and a research project submitted for the New York Academy of Sciences</description>
+    </item>
+    
+    <item>
+      <title>Sisritha Avala : C1</title>
+      <link>/fellows/sisritha/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fellows/sisritha/</guid>
+      <description>Sisritha Avala is a rising senior at Riverside High School and the Academy of Engineering and Technology. Her passions lie in the field of medicine, biology, engineering, and computer vision. She is interested in pursuing her dreams of becoming a biomedical engineer after college and hopes to gain more experience in the field through this fellowship.</description>
+    </item>
+    
+    <item>
+      <title>Sunny Kudum : C2</title>
+      <link>/fellows/sunny/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fellows/sunny/</guid>
+      <description>Sunny Kudum is a rising junior at the Academy of Science and Riverside High School. His interests lie in the crossroads between machine learning/computer vision and science. He has experience with artificial intelligence through internships and other personal projects and has therefore joined the ALUNA Research Fellowship to further his experience in research with deep and machine learning.</description>
+    </item>
+    
+  </channel>
+</rss>

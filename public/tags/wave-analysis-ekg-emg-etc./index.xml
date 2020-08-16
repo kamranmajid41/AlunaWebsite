@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wave Analysis (EKG, EMG, etc.) on ALUNA Research Fellowship</title>
+    <link>/tags/wave-analysis-ekg-emg-etc./</link>
+    <description>Recent content in Wave Analysis (EKG, EMG, etc.) on ALUNA Research Fellowship</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/wave-analysis-ekg-emg-etc./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Learning Approach to Control of Prosthetic Hands With Electromyography Signals</title>
+      <link>/post/paper-4/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/paper-4/</guid>
+      <description>&amp;ldquo;Natural muscles provide mobility in response to nerve impulses. Electromyography (EMG) measures the electrical activity of muscles in response to a nerve&amp;rsquo;s stimulation. In the past few decades, EMG signals have been used extensively in the identification of user intention to potentially control assistive devices such as smart wheelchairs, exoskeletons, and prosthetic devices. In the design of conventional assistive devices, developers optimize multiple subsystems independently. Feature extraction and feature description are essential subsystems of this approach.</description>
+    </item>
+    
+    <item>
+      <title>A Fast Machine Learning Model for ECG-Based Heartbeat Classification and Arrhythmia Detection</title>
+      <link>/post/paper-3/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/paper-3/</guid>
+      <description>&amp;ldquo;We present a fully automatic and fast ECG arrhythmia classifier based on a simple brain-inspired machine learning approach known as Echo State Networks. Our classifier has a low-demanding feature processing that only requires a single ECG lead. Its training and validation follows an inter-patient procedure. Our approach is compatible with an online classification that aligns well with recent advances in health-monitoring wireless devices and wearables. The use of a combination of ensembles allows us to exploit parallelism to train the classifier with remarkable speeds.</description>
+    </item>
+    
+  </channel>
+</rss>

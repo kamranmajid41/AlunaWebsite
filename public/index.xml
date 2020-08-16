@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ALUNA Research Fellowship</title>
+    <link>/</link>
+    <description>Recent content on ALUNA Research Fellowship</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Charles Anderson : C1</title>
+      <link>/fellows/charles/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fellows/charles/</guid>
+      <description>Charles Anderson is a rising junior at the Academy of Science. He is passionate about biotechnology, botany, artificial intelligence, and algorithmic trading . He has completed various projects in these fields, and is currently working on starting a non-profit incubation fund to abate the suffering from the crisis in Yemen.</description>
+    </item>
+    
+    <item>
+      <title>Dristi Shah : C2</title>
+      <link>/fellows/dristi/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fellows/dristi/</guid>
+      <description>Dristi Shah is a rising senior from Edison, New Jersey who is fascinated by the application of AI to improve the medical field. Interested in computer science, she hopes to continue coding and researching in college. In her free time, she enjoys painting and sketching.</description>
+    </item>
+    
+    <item>
+      <title>Ishita Vaish : C2</title>
+      <link>/fellows/ishita/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fellows/ishita/</guid>
+      <description>Ishita Vaish is a rising senior at Northview High School who has debated for over five years with a focus on gender inequality. This experience inspired her passion for addressing the structural determinants of sexism. She has joined the ALUNA Research Fellowship to explore how Artificial Intelligence has the potential to resolve these structural disparities.</description>
+    </item>
+    
+    <item>
+      <title>Rhea Goswami : C1</title>
+      <link>/fellows/rhea/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fellows/rhea/</guid>
+      <description>Rhea Goswami is a junior at Thomas Jefferson High School for Science and Technology. She has taken several courses in computer science and biology and is interested in learning more about algorithms and machine learning.</description>
+    </item>
+    
+    <item>
+      <title>Roshan Arokiaraj : C1</title>
+      <link>/fellows/roshan/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fellows/roshan/</guid>
+      <description>Roshan Arokiaraj is a rising junior at Independence High School. He is interested in the field of robotics, machine learning and artificial intelligence, web development, and various applications of virtual/augmented reality. He has completed numerous projects in these fields such as the development of a virtual telepresence robot, creating various websites using frameworks in JavaScript, and a research project submitted for the New York Academy of Sciences</description>
+    </item>
+    
+    <item>
+      <title>Sisritha Avala : C1</title>
+      <link>/fellows/sisritha/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fellows/sisritha/</guid>
+      <description>Sisritha Avala is a rising senior at Riverside High School and the Academy of Engineering and Technology. Her passions lie in the field of medicine, biology, engineering, and computer vision. She is interested in pursuing her dreams of becoming a biomedical engineer after college and hopes to gain more experience in the field through this fellowship.</description>
+    </item>
+    
+    <item>
+      <title>Sunny Kudum : C2</title>
+      <link>/fellows/sunny/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fellows/sunny/</guid>
+      <description>Sunny Kudum is a rising junior at the Academy of Science and Riverside High School. His interests lie in the crossroads between machine learning/computer vision and science. He has experience with artificial intelligence through internships and other personal projects and has therefore joined the ALUNA Research Fellowship to further his experience in research with deep and machine learning.</description>
+    </item>
+    
+    <item>
+      <title>Kamran Majid</title>
+      <link>/about/kamran_profile/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/kamran_profile/</guid>
+      <description>Kamran is a high school senior at Rock Ridge High School who has implemented unsupervised machine learning within computer vision programs for a micro-payload lunar rover. His interests lie in AI applications for rovers, and AI implementations for computer vision. Because of his experience with AI, he has co-founded the ALUNA Research Fellowship in order to guide and review the work of like-minded students.</description>
+    </item>
+    
+    <item>
+      <title>Rahul Kumar</title>
+      <link>/about/rahul_profile/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/rahul_profile/</guid>
+      <description>Rahul Kumar is a rising senior at the Academy of Science and Independence High School. He is passionate about robotics, computer vision, and biomedical application of Artificial Intelligence. He has completed various deep learning projects that are in the process of publication. He was inspired to co-found the ALUNA Research Fellowship to give other students an opportunity to conduct quality Artificial Intelligence research and potentially publish their work.</description>
+    </item>
+    
+    <item>
+      <title>Varun Pasupuleti</title>
+      <link>/about/varun_profile/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/varun_profile/</guid>
+      <description>Varun Pasupuleti is a rising senior at Rock Ridge High School and the Academy of Engineering and Technology. He has completed numerous research projects in the biomedical sciences. Interested in the fields of biology, chemistry, mathematics, and computer science, Varun has found AI with a biomedical application to be a fascinating crossroads of his passions. As such, he has joined the ALUNA Research Fellowship to share his interests with other students by guiding them through a research project of their own.</description>
+    </item>
+    
+    <item>
+      <title>Applying Convolutional Neural Networks to Identify Parasitized</title>
+      <link>/post/paper-8/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/paper-8/</guid>
+      <description>&amp;ldquo;We develop an algorithm that can detect malaria from images of segmented cells from the thin blood smear slide images with 96% accuracy. Our algorithm, SimpNet-7, is a 7-layer convolutional neural network trained on the NIH Malaria dataset, containing 27,588 images of parasitized and uninfected cells. We find that SimpNet-7 achieves an F1 score of 0.955, a precision of 0.946, and a recall of 0.974. We then propose the application of this algorithm in hospitals in areas where malaria is prominent but medical resources are sparse, such as African countries.</description>
+    </item>
+    
+    <item>
+      <title>Effect of the Laplace Operator on the Performance of CoronaNet for COVID-19 Detection</title>
+      <link>/post/paper-7/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/paper-7/</guid>
+      <description>&amp;ldquo;Coronavirus disease (COVID-19) is the cause of a global pandemic that is affecting millions of people around the world. Inadequate testing resources have resulted in several people going undiagnosed and consequently untreated. However, using computerized tomography (CT) scans for diagnosis is an alternative to bypass this limitation. In this paper, we describe CoronaNet, a deep convolutional neural network that can recognize if a patient has COVID-19 from images of CT scans with 91% accuracy.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Approach to Control of Prosthetic Hands With Electromyography Signals</title>
+      <link>/post/paper-4/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/paper-4/</guid>
+      <description>&amp;ldquo;Natural muscles provide mobility in response to nerve impulses. Electromyography (EMG) measures the electrical activity of muscles in response to a nerve&amp;rsquo;s stimulation. In the past few decades, EMG signals have been used extensively in the identification of user intention to potentially control assistive devices such as smart wheelchairs, exoskeletons, and prosthetic devices. In the design of conventional assistive devices, developers optimize multiple subsystems independently. Feature extraction and feature description are essential subsystems of this approach.</description>
+    </item>
+    
+    <item>
+      <title>A Fast Machine Learning Model for ECG-Based Heartbeat Classification and Arrhythmia Detection</title>
+      <link>/post/paper-3/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/paper-3/</guid>
+      <description>&amp;ldquo;We present a fully automatic and fast ECG arrhythmia classifier based on a simple brain-inspired machine learning approach known as Echo State Networks. Our classifier has a low-demanding feature processing that only requires a single ECG lead. Its training and validation follows an inter-patient procedure. Our approach is compatible with an online classification that aligns well with recent advances in health-monitoring wireless devices and wearables. The use of a combination of ensembles allows us to exploit parallelism to train the classifier with remarkable speeds.</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence With Multi-Functional Machine Learning Platform Development for Better Healthcare and Precision Medicine</title>
+      <link>/post/paper-6/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/paper-6/</guid>
+      <description>&amp;ldquo;Precision medicine is one of the recent and powerful developments in medical care, which has the potential to improve the traditional symptom-driven practice of medicine, allowing earlier interventions using advanced diagnostics and tailoring better and economically personalized treatments. Identifying the best pathway to personalized and population medicine involves the ability to analyze comprehensive patient information together with broader aspects to monitor and distinguish between sick and relatively healthy people, which will lead to a better understanding of biological indicators that can signal shifts in health.</description>
+    </item>
+    
+    <item>
+      <title>Scalable and Accurate Deep Learning with Electronic Health Records</title>
+      <link>/post/paper-5/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/paper-5/</guid>
+      <description>&amp;ldquo;Predictive modeling with electronic health record (EHR) data is anticipated to drive personalized medicine and improve healthcare quality. Constructing predictive statistical models typically requires extraction of curated predictor variables from normalized EHR data, a labor-intensive process that discards the vast majority of information in each patient’s record. We propose a representation of patients’ entire raw EHR records based on the Fast Healthcare Interoperability Resources (FHIR) format. We demonstrate that deep learning methods using this representation are capable of accurately predicting multiple medical events from multiple centers without site-specific data harmonization.</description>
+    </item>
+    
+    <item>
+      <title>CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning</title>
+      <link>/post/paper-1/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/paper-1/</guid>
+      <description>&amp;ldquo;We develop an algorithm that can detect pneumonia from chest X-rays at a level exceeding practicing radiologists. Our algorithm, CheXNet, is a 121-layer convolutional neural network trained on ChestX-ray14, currently the largest publicly available chest X-ray dataset, containing over 100,000 frontal-view X-ray images with 14 diseases. Four practicing academic radiologists annotate a test set, on which we compare the performance of CheXNet to that of radiologists. We find that CheXNet exceeds average radiologist performance on the F1 metric.</description>
+    </item>
+    
+    <item>
+      <title>Deep Segmentation Networks Predict Survival of Non-Small Cell Lung Cancer</title>
+      <link>/post/paper-2/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/paper-2/</guid>
+      <description>&amp;ldquo;Non-small-cell lung cancer (NSCLC) represents approximately 80–85% of lung cancer diagnoses and is the leading cause of cancer-related death worldwide. Recent studies indicate that image-based radiomics features from positron emission tomography/computed tomography (PET/CT) images have predictive power for NSCLC outcomes. To this end, easily calculated functional features such as the maximum and the mean of standard uptake value (SUV) and total lesion glycolysis (TLG) are most commonly used for NSCLC prognostication, but their prognostic value remains controversial.</description>
+    </item>
+    
+  </channel>
+</rss>
